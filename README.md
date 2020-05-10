@@ -1,2 +1,2 @@
 # statistical_ml
-Implementations of basic statistical machine learning approaches.
+Implementation of some basic statistical machine learning approaches.
